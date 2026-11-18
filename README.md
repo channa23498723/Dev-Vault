@@ -24,9 +24,9 @@ To maintain clean separation of concerns and zero merge conflicts, the applicati
 
 | Module | Lead Developer | Core Responsibilities & Technologies |
 | :--- | :--- | :--- |
-| **Module 1: Text Editor & Undo/Redo Engine** | **Anam** | Real-time text creation, editing, deletion, and state history tracking using `Stacks` & `StringBuilder`. |
-| **Module 2: Snippet Organization & Search Engine** | **Aqsa** | Tag-based categorization (`#java`, `#dsa`, `#sql`), fast indexing, and multi-criteria searching using `HashMap`. |
-| **Module 3: Storage Engine & GUI Manager** | **Erum** | Main desktop layout, event listeners (`ActionListener`, `DocumentListener`), and local disk persistence. |
+| **Module 1: Text Editor & Undo/Redo Engine** | **Anam Channa** | Real-time text creation, editing, deletion, and state history tracking using `Stacks` & `StringBuilder`. |
+| **Module 2: Snippet Organization & Search Engine** | **Aqsa Gul Vighio** | Tag-based categorization (`#java`, `#dsa`, `#sql`), fast indexing, and multi-criteria searching using `HashMap`. |
+| **Module 3: Storage Engine & GUI Manager** | **Erum Babar** | Main desktop layout, event listeners (`ActionListener`, `DocumentListener`), and local disk persistence. |
 
 ---
 
